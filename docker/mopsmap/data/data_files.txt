@@ -1,0 +1,39 @@
+ar_dubovik          Aspect ratio distribution of AERONET (Dubovik et al., 2006)
+ar_kandler          Aspect ratio distribution of Kandler et al. (2009)
+refr_ice            Refr. index of ice in OPAC (Hess et al., 1998)
+refr_insoluble      Refr. index of insoluble component in OPAC 
+refr_mineral        Refr. index of mineral components in OPAC 
+refr_seasalt        Refr. index of dry sea salt components in OPAC 
+refr_seasalt00      Refr. index of sea salt components in OPAC at RH=0%
+refr_seasalt50      Refr. index of sea salt components in OPAC at RH=50%
+refr_seasalt70      Refr. index of sea salt components in OPAC at RH=70%
+refr_seasalt80      Refr. index of sea salt components in OPAC at RH=80%
+refr_seasalt90      Refr. index of sea salt components in OPAC at RH=90%
+refr_seasalt95      Refr. index of sea salt components in OPAC at RH=95%
+refr_seasalt98      Refr. index of sea salt components in OPAC at RH=98%
+refr_seasalt99      Refr. index of sea salt components in OPAC at RH=99%
+refr_soot           Refr. index of soot component in OPAC 
+refr_sulfate        Refr. index of dry sulfate component in OPAC
+refr_suso00         Refr. index of sulfate component in OPAC at RH=0%
+refr_suso50         Refr. index of sulfate component in OPAC at RH=50%
+refr_suso70         Refr. index of sulfate component in OPAC at RH=70%
+refr_suso80         Refr. index of sulfate component in OPAC at RH=80%
+refr_suso90         Refr. index of sulfate component in OPAC at RH=90%
+refr_suso95         Refr. index of sulfate component in OPAC at RH=95%
+refr_suso98         Refr. index of sulfate component in OPAC at RH=98%
+refr_suso99         Refr. index of sulfate component in OPAC at RH=99%
+refr_waso00         Refr. index of water soluble component in OPAC at RH=0%
+refr_waso50         Refr. index of water soluble component in OPAC at RH=50%
+refr_waso70         Refr. index of water soluble component in OPAC at RH=70%
+refr_waso80         Refr. index of water soluble component in OPAC at RH=80%
+refr_waso90         Refr. index of water soluble component in OPAC at RH=90%
+refr_waso95         Refr. index of water soluble component in OPAC at RH=95%
+refr_waso98         Refr. index of water soluble component in OPAC at RH=98%
+refr_waso99         Refr. index of water soluble component in OPAC at RH=99%
+refr_water          Refr. index of water in OPAC
+refr_water_segelstein Refr. index of water from Segelstein (1981)
+refr_water_soluble  Refr. index of dry water soluble component in OPAC
+wavelength_aeronet  Wavelengths of typical AERONET Cimel sun photometers
+wavelength_aeronet_seaprism  Wavelengths of SeaPrism version of the Cimel sun photometer
+wavelength_lidar    Wavelengths of a typical aerosol lidar
+wavelength_modis    Selected wavelengths of MODIS radiometer

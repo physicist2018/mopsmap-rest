@@ -1,0 +1,12 @@
+mode 1 size log_normal 0.1 2.0 1 0.005 20
+mode 1 refrac 1.52 0.01
+mode 1 shape spheroid oblate 1.7
+mode 1 kappa 0.5
+mode 1 density 2
+rH 70
+size_equ cs
+output num_theta 4
+wavelength range 0.4 0.5 0.1
+output integrated
+output phase_function
+scatlib '../optical_dataset'
